@@ -1,14 +1,14 @@
 # ----
 # Site
 
-title: Cause Template
-url: https://clean-oryx.cloudvent.net
+title: The Global Musician Advocacy Project
+url: woof84.github.io/thegmap-test
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a not-for-profit organisation.
+description: Website for The Global Musician Advocacy Project
 author:
   name:
   email:
