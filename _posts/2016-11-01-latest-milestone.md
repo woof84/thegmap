@@ -1,7 +1,7 @@
 ---
-title: We've raised $2000!
+title: Los Angeles Chamber Orchestra
 author_staff_member: wooly-mcbaa
-date: 2016-11-01
-featured_image: https://unsplash.it/570/400?image=1080
+season: 2024/25
+featured_image: https://media.laco.org/app/uploads/2019/10/10104358/cropped-laco-mark.jpg
 ---
-Thank you do everyone who has made contributions. This money is going towards reaching sheep in paddocks far and wide. The revolution has begun.
+Anoushka Shenkar, sitar
